@@ -1,11 +1,13 @@
 
 
-function App() {
-  return (
-   <>
-   
-   </>
-  );
+function App(props) {
+     
+ return(
+    <>
+    </>
+ )
+
+  
 }
 
 export default App;
