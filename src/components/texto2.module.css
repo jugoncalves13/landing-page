@@ -1,0 +1,11 @@
+.texto2{
+    text-align: center;
+    background-color:rgb(251, 156, 145);
+    height: 100%;
+    width: 100%;
+    font-size: 15px;
+    display: inline-block;
+}
+.texto2vivara{
+    font-weight: bold;
+}
